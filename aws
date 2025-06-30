@@ -1,0 +1,16 @@
+ A branch represents an independent line of development.
+ The git branch command lets you create, list, rename, and delete branches.
+ The default branch name in Git is master.
+COMMANDS:
+ The -d option will delete the branch only if it has already been pushed and merged with the 
+remote branch. Use -D instead if you want to force the branch to be deleted, even if it hasn't 
+been pushed or merged yet. The branch is now deleted locally.
+ Now all the things you have done is on your local system.
+ GIT MERGE:
+ Git merge is a command used in the Git version control system to combine changes from one 
+branch.
+ To merge: git merge branch_name 
+allows you to work on di erent features or changes to your code independently, without 
+a ecting the main or other branches.
+ It's a way to organize and manage your code changes, making it easier to collaborate and 
+maintain your project
